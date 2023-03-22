@@ -1,9 +1,8 @@
 import Slider from "react-slick";
 import "slick-carousel/slick/slick.css";
 import "slick-carousel/slick/slick-theme.css";
-import React from "react";
 
-export default function Sliders() {
+export default function navSliders() {
   const settings = {
     dots: false,
     infinite: true,

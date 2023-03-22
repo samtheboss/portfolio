@@ -3,7 +3,7 @@
 @tailwind utilities;
 
 :root{
-    --theme-color: #92cbdf;
+    --theme-color: #1a1b1c;
 }
 
 .bgimage {
